@@ -12,3 +12,9 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+Flow:
+1.Read and Clean the Dataset
+2.Save the data into DB
+3.Build the ML Pipeline for classification on the cleaned data.
+4.Show the results on the Web App built using Flask.
